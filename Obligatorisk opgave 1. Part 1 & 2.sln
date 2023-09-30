@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obligatorisk opgave 1. Part 1 & 2", "Obligatorisk opgave 1. Part 1 & 2\Obligatorisk opgave 1. Part 1 & 2.csproj", "{E5DEF6F2-FE1D-439B-8217-BFB3FA6FB8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obligatorisk opgave 1. Part 1 & 2Tests", "Obligatorisk opgave 1. Part 1 & 2Tests\Obligatorisk opgave 1. Part 1 & 2Tests.csproj", "{44DF5EF2-7599-4693-942F-1B7EED8CC03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5DEF6F2-FE1D-439B-8217-BFB3FA6FB8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DEF6F2-FE1D-439B-8217-BFB3FA6FB8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DEF6F2-FE1D-439B-8217-BFB3FA6FB8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DEF6F2-FE1D-439B-8217-BFB3FA6FB8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DF5EF2-7599-4693-942F-1B7EED8CC03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DF5EF2-7599-4693-942F-1B7EED8CC03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DF5EF2-7599-4693-942F-1B7EED8CC03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DF5EF2-7599-4693-942F-1B7EED8CC03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BBC0748-5953-4193-AD94-14859402C99C}
+	EndGlobalSection
+EndGlobal
